@@ -49,23 +49,47 @@
     
 * architecture
   - Pantheon 
+  - Roman arch 2 Gothics
   - Gladiator(格斗者）, Colo'sseum(斗兽场）: 
     - enjoy see people fighting to death(slave society)
     - Gladiators are always slaves fighting against each other
+    
+* music
+
+* peotry
+  - chivalry(骑士精神）
+  - Dante 
+    - Inferno(地狱-Dan Brown有同名小说)
+      - 9 circles of hell(各种)sins’)
+      - the last circle: Traiters: Judas , ,
 
 * army and battle
   - tactics: 阵型、作战技巧
-  
+
+## timeline
 * Disvisions in 285
   - western empire 
     - Christianity Constantine
     - decline
   - eastern empire
     - Byzatium
-    
-  # Research paper
-  '...'(Rose, 1998)   
-  APA form 
+
+* Charlemage
+
+* Crusades（十字军东征）
+
+* black death _Yersinia_ pestis flea rats
+
+
+# Research paper  
+'...'(Rose, 1998)   
+APA form 
+
+```
+the Game of Thrones is based on Britain middle ages's Rose War
+```
+
+## pre: western science history
 
 
 
