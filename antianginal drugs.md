@@ -84,6 +84,8 @@
 - 应用
   - 预防发作
 
+
+
 ## 2. beta blockers
 - 作用机制 `耗氧降低`
   - 降低 contractability
@@ -92,6 +94,8 @@
 - 应用
 
 - 不良反应
+
+
 
 ## 3. Ca channel blockers CCB
 `兴奋-收缩耦联`
