@@ -29,6 +29,14 @@
 * Richard the Lionheart
   s
 
+# WEEK 10  ROME
+* in Italy
+* Shines
+- Roman's roads are always straight(UK curved ways)
+- Army
+- Aquaduct
+
+
 
 
 
