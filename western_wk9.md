@@ -45,12 +45,27 @@
     - Patriciancs & Plets(poor)
     - Marius(people) and Mulla(aristocrates)
   - after Caesar, Augustus
+  - slaves society, but democratic as it tolerates people they conquered
     
 * architecture
-  - Pantheon 
-  - Gladiator(格斗者）, Colosseum(斗兽场）
+  - Pantheon 
+  - Gladiator(格斗者）, Colo'sseum(斗兽场）: 
+    - enjoy see people fighting to death(slave society)
+    - Gladiators are always slaves fighting against each other
 
-
+* army and battle
+  - tactics: 阵型、作战技巧
+  
+* Disvisions in 285
+  - western empire 
+    - Christianity Constantine
+    - decline
+  - eastern empire
+    - Byzatium
+    
+  # Research paper
+  '...'(Rose, 1998)   
+  APA form 
 
 
 
