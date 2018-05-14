@@ -30,11 +30,25 @@
   s
 
 # WEEK 10  ROME
-* in Italy
+* in Italy to great expansion 
 * Shines
-- Roman's roads are always straight(UK curved ways)
-- Army
-- Aquaduct
+  - Roman's roads are always straight(UK curved ways)
+  - Army
+  - Laws
+  - Aquaduct(canal)
+  
+* history
+  - kingdom
+  - republics
+  - empire(from Julius Ceasar)
+    - senate
+    - Patriciancs & Plets(poor)
+    - Marius(people) and Mulla(aristocrates)
+  - after Caesar, Augustus
+    
+* architecture
+  - Pantheon 
+  - Gladiator(格斗者）, Colosseum(斗兽场）
 
 
 
