@@ -20,12 +20,11 @@
 - 6 fibrosis 
 
 
-# liver disease
+# `liver disease`
 
 
 ## `infective hepatitis`
-- 1 carrier state
-  
+- 1 carrier state  
 - 2 asymptomatic infection with recovery
 - 3 acute
 - 4 fulminant 
@@ -74,9 +73,9 @@
 ### 4 `pigment cirrhosis`
 
 
-## nodules and tumors
+## `nodules and tumors`
 
-### 1 HCC hepatocellular carcinoma
+### 1 `HCC hepatocellular carcinoma`
 - def
 - etiology
 - pathology
@@ -85,15 +84,15 @@
 
 - metastasis
 
-## cholecystitis
+## `cholecystitis`
 - acute
 - chronic
 
-## gallbladder carcinoma
+## `gallbladder carcinoma`
 
-# clinical relations
+# `clinical relations`
 
-## 1 portal hypertension
+## 1 `portal hypertension`
 - cause
 - clinical feature
   - 1 splenomegaly
@@ -105,7 +104,7 @@
     - periumbilical & abdominal varicose vein
 
 
-## 2 liver failure
+## 2 `liver failure`
 - 
 
 
